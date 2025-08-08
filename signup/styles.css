@@ -1,0 +1,29 @@
+body{
+    border-color:black;
+    border-width:10px;
+    border-style:solid;
+    background-color:antiquewhite;
+    height:100vh;
+}
+.h1{
+    font-size:40px;
+}
+.intro{
+    display:flex;
+    width:100px;
+    height:100px;
+}
+.form{
+    display:flex;
+    align-items:flex-start;
+    gap:10px;
+    margin:10px 10px;
+}
+.sign{
+    flex:1;
+}
+.submit{
+    width:100px;
+    height:100px;
+    background-color:aqua;
+}
